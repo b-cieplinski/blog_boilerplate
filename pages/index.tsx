@@ -25,7 +25,7 @@ export default function Home ({posts}: Props) {
 <div className="px-10 space-y-5">
 <h1 className="text-6xl m-w-xl font-serif"><span className="underline decoration-black decoration-4">Medium</span> is the place to write, read and connect</h1>
 <h2>
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 </h2>
 </div>
 
